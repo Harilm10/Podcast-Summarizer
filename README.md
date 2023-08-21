@@ -1,4 +1,4 @@
-# Podcast-Summarizer
+# Podcast-Summarizer https://uplimitpodcast-harilogan.streamlit.app/
 In this project, I built an LLM app that summarizes a podcast episode, identifies podcast guests, identifies key highlights, and more! 
 
 Part 1: Used a large language model from OpenAI to build the information extraction functionality, paired with a speech-to-text model for transcribing the podcast.
